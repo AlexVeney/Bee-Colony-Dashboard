@@ -8,6 +8,6 @@ This dashboard shows the percentage of bee colonies affected in each state withi
 - Dash
 
 
-<img src="images/dash_plotly_app.png" width="650" height="350"/>
+<img src="images/Dash_Plotly_App.png" width="700" height="400"/>
 
-Updates: 10/2020
+Updated: 10/2020
